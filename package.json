@@ -1,0 +1,28 @@
+{
+  "name": "new-project-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aniket7778/new-project-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aniket7778/new-project-practice/issues"
+  },
+  "homepage": "https://github.com/aniket7778/new-project-practice#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "mocha": "^7.0.0",
+    "should": "^13.2.3",
+    "supertest": "^4.0.2"
+  }
+}
