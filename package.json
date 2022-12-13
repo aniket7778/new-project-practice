@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/aniket7778/new-project-practice#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "devDependencies": {
     "mocha": "^7.0.0",
